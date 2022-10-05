@@ -828,12 +828,13 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthereV5.jpg");
+    background-image: url("img/agence-la-panthereV6.jpg");
 }
 
 .bg-presentation {
     background-image: url("img/image-de-presentationV5.jpg");
 }
+
 
 @media (max-width: 1024px) {
     .bloc {
