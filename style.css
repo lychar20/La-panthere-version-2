@@ -320,12 +320,14 @@ a:hover {
     margin-right: -16px;
     float: right;
     z-index: 1;
+    padding-right: 200px;
 }
 
 .nav > li {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    margin-right: 30px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
