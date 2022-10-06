@@ -680,7 +680,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 17px;
 }
 
 .citation{
@@ -784,15 +784,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: blueviolet;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: yellow!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: blueviolet;
     color: #FFFFFF!important;
 }
 
