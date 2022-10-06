@@ -275,6 +275,7 @@ a:hover {
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
+    
 }
 
 .row.row-no-gutters > [class^="col-"],
@@ -715,6 +716,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 h2 {
