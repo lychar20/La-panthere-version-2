@@ -81,6 +81,7 @@ a:hover {
     background: top no-repeat;
 }
 
+
 .bloc-bg-texture::before {
     content: "";
     background-size: 2px 2px;
@@ -90,6 +91,8 @@ a:hover {
     left: 0;
     right: 0;
 }
+
+
 
 .texture-paper::before {
     background: url("img/texture-paper.png");
@@ -769,7 +772,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(15, 147, 99, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -783,19 +786,33 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #F3976C;
 }
 
 .bgc-atomic-tangerine {
-    background-color: blueviolet;
+    background-color: #F3976C;
+}
+
+
+.bg-dots-bg {
+    background-color: #F3976C;
 }
 
 .tc-white {
-    color: yellow!important;
+    color: #F3976C!important;
 }
 
+.change {
+    color: black;
+}
+
+.couleurfin{
+    color: white;
+}
+
+
 .btn-atomic-tangerine {
-    background: blueviolet;
+    background: #F3976C;
     color: #FFFFFF!important;
 }
 
@@ -825,9 +842,13 @@ h4 {
     border-color: #364577!important;
 }
 
+/*
+
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
 }
+
+*/
 
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
@@ -840,6 +861,7 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentationV5.jpg");
 }
+
 
 
 @media (max-width: 1024px) {
