@@ -167,9 +167,10 @@ a:hover {
     border-color: rgba(255, 255, 255, 1);
 }
 
+
 .d-bloc .panel {
     color: rgba(0, 0, 0, .5);
-}
+} 
 
 .d-bloc .panel button:hover {
     color: rgba(0, 0, 0, .7);
@@ -197,10 +198,12 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
+/*
 .d-bloc .panel,
 .l-bloc {
     color: rgba(0, 0, 0, .5);
 }
+*/
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
